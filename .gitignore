@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Models
+models/ssd_mobilenet_v2_coco/FP32
+models/ssd_mobilenet_v2_coco/ssd_mobilenet_v2_coco_2018_03_29
