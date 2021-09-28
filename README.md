@@ -1,4 +1,4 @@
-# openvino
+# openvino-examples
 Repository for examples on how to use OpenVINO
 
 Note that models/ does not contain the original models, but only the converted models. This is because the original models' size exceeded GitHub's maximum file size of 50.00 MB. To get the original models use the OpenVINO downloader tool and download the models again.
